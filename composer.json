@@ -1,0 +1,17 @@
+{
+    "name": "smartdev1/crawl",
+    "autoload": {
+        "psr-4": {
+            "Smartdev1\\Crawl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rajibbinalam",
+            "email": "rajibbinalam16@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
